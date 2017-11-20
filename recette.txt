@@ -4,7 +4,11 @@ sel
 poivre
 poulet
 vinaigre
+<<<<<<< HEAD
 croutons
+=======
+chevre
+>>>>>>> experimenter
 
 
 
