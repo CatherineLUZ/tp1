@@ -4,6 +4,7 @@ sel
 poivre
 poulet
 vinaigre
+chevre
 
 
 
